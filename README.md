@@ -8,4 +8,4 @@ Links: [**Paper**](https://arxiv.org/abs/2504.12626), [**Project Page**](https:/
 
 # Notes
 
-This repo just adds a command-line interface for batch processing.
+This repo just adds a command-line interface via generate_cli.py for batch processing.
